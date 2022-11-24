@@ -1,4 +1,5 @@
-<img src=https://pics.me.me/thumb_640-by-480-just-like-you-asked-gods-programmer-terry-51547328.png>
+<img src=https://user-images.githubusercontent.com/112873080/203672641-065a2895-70e0-46ab-b5f3-d7879ae6d379.png>
+
 
 <!--
 **AntonThoresson/AntonThoresson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
